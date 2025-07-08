@@ -1,5 +1,4 @@
 Merhaba Ben Elif.
-Profil Açıklaması — Hakkımda
 Yazılım geliştirme öğrencisiyim, ama bilgisayar mühendisliği alanını da öğrenmiş ve eğitimlerimi tamamlamış durumdayım.
 Yazılım ve teknolojiye tutkuyla bağlıyım, sürekli kendimi geliştirmeye ve yeni şeyler öğrenmeye açım.
 
